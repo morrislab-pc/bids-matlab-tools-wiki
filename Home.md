@@ -1,3 +1,7 @@
+# Documentation and tutorial videos
+
+[![](BIDS_doc1.png)](https://www.youtube.com/watch?v=du9waxN5Wcc)
+
 # Import datasets from BIDS to EEGLAB study
 
 The EEGLAB menu to import a BIDS dataset into an EEGLAB study is fully functional. Screen capture is shown below.
@@ -15,6 +19,12 @@ Finally, users may select an output folder for storing their EEGLAB STUDY. If a 
 After installing the bids-matlab-tools plugin, the BIDS menu should appear in the EEGLAB File menu item as shown below.
 
 ![](eeglab_menu_bids.png)
+
+We will go through the menus one by one. First the task menu. This is where you enter all the information about the task and amplifier information.
+
+![](bids_task.png)
+
+
 
 # Export datasets to BIDS from the command line
 
