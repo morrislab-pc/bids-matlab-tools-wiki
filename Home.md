@@ -1,6 +1,6 @@
 # Documentation and tutorial videos
 
-[![](BIDS_doc1.jpg)](https://www.youtube.com/watch?v=du9waxN5Wcc)
+[![](BIDS_doc1.png)](https://www.youtube.com/watch?v=du9waxN5Wcc)
 
 # Import datasets from BIDS to EEGLAB study
 
