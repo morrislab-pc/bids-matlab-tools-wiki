@@ -1,3 +1,7 @@
+# Documentation and tutorial videos
+
+[![](BIDS_doc1.jpg)](https://www.youtube.com/watch?v=du9waxN5Wcc)
+
 # Import datasets from BIDS to EEGLAB study
 
 The EEGLAB menu to import a BIDS dataset into an EEGLAB study is fully functional. Screen capture is shown below.
