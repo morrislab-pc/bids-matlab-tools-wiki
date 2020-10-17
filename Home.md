@@ -24,7 +24,15 @@ We will go through the menus one by one. First the task menu. This is where you 
 
 ![](bids_task.png)
 
+Once you are done entering task information, you can select the participant menu. There are as many rows as subjects. For each subject, you can specify age, gender, group, etc... Only the participant_id column is mandatory and other columns are optional.
 
+![](participant.png)
+
+Note that it is also possible to define custom columns. To do this, you can click on the "import column(s)" push button. Upon doing so, you are prompted to select a text or Excel file. Note that the first row must contain column names. After selecting the file, the following interface pops up.
+
+![](import_column.png)
+
+You must indicate which column contains participant ID. You can also select columns for the pre-defined BIDS participant information, such as age, gender, etc... Finally, it is possible to select columns which will be added to the BIDS participant file, in this case "ethnicity" and "income".
 
 # Export datasets to BIDS from the command line
 
