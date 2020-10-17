@@ -12,6 +12,10 @@ Finally, users may select an output folder for storing their EEGLAB STUDY. If a 
 
 # Export datasets to BIDS from the graphic interface
 
+After installing the bids-matlab-tools plugin, the BIDS menu should appear in the EEGLAB File menu item as shown below.
+
+![](eeglab_menu_bids.png)
+
 # Export datasets to BIDS from the command line
 
 Exporting a collection of datasets to BIDS can also conveniently be done from the command line. A documented example script [bids_export_example.m](https://github.com/sccn/bids-matlab-tools/blob/master/bids_export_example.m) and [bids_export_example2.m](https://github.com/sccn/bids-matlab-tools/blob/master/bids_export_example2.m) (more recent) are provided. You may modify these scripts for your own purpose. The help message of the function [bids_export.m](https://github.com/sccn/bids-matlab-tools/blob/master/bids_export.m) also contains information on how to export data in BIDS format. 
